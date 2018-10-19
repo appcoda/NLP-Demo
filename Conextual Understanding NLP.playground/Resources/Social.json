@@ -1,0 +1,30 @@
+[
+	{
+		"tokens": ["Can", "YouTube", "compete", "with", "Instagram", "TV", "?"],
+		"labels": ["NONE", "SOCIAL", "NONE", "NONE", "SOCIAL", "SOCIAL", "NONE"]
+	},
+	{
+		"tokens": ["12", "little", "known", "facts", "about", "the", "creation", "of", "Snapchat", "and", "Instagram", "."],
+		"labels": ["NONE", "NONE", "NONE", "NONE", "NONE", "NONE", "NONE", "NONE", "SOCIAL", "NONE", "SOCIAL", "NONE"]
+	},
+	{
+		"tokens": ["WhatsApp", "now", "accepts", "integration", "with", "Facebook", "users", "."],
+		"labels": ["SOCIAL", "NONE", "NONE", "NONE", "NONE", "SOCIAL", "NONE", "NONE"]
+	},
+	{
+		"tokens": ["Bookmark", "a", "tweet", "with", "Twitter", "'s'", "newest", "update"],
+		"labels": ["NONE", "NONE", "NONE", "NONE", "SOCIAL", "NONE", "NONE", "NONE"]
+	},
+	{
+		"tokens": ["In", "September", ",", "Facebook", "will", "release", "a", "new", "device", "."],
+		"labels": ["NONE", "NONE", "NONE", "SOCIAL", "NONE", "NONE", "NONE", "NONE", "NONE", "NONE"]
+	},
+	{
+		"tokens": ["Don't", "you", "think", "that", "the", "Oculus", "Go", "is", "the", "best", "device", "?"],
+		"labels": ["NONE", "NONE", "NONE", "NONE", "NONE", "SOCIAL", "NONE", "NONE", "NONE", "NONE", "NONE", "NONE"]
+	}, 
+	{
+		"tokens": ["Snap", "executives", "believe", "that", "the", "Spectacles", "is", "the", "best", "goggles", "."],
+		"labels": ["SOCIAL", "NONE", "NONE", "NONE", "NONE", "NONE", "NONE", "NONE", "NONE", "NONE", "NONE"]
+	}
+]
